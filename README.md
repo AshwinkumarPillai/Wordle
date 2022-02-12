@@ -1,6 +1,6 @@
 # Wordle Clone
 
-You can find this project here: https://ashwinkumarpillai.github.io/Wordle/
+Website: https://ashwinkumarpillai.github.io/Wordle/
 
 This is a clone project of Wordle
 
