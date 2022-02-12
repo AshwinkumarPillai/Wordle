@@ -1,8 +1,11 @@
 # Wordle Clone
 
+You can find this project here: https://ashwinkumarpillai.github.io/Wordle/
+
 This is a clone project of Wordle
 
-Inspired by: https://github.com/WebDevSimplified/wordle-clone
+Inspired by: https://github.com/WebDevSimplified/wordle-clone.
+
 Script and styling was taken from the above repository
 
 Youtube video: https://www.youtube.com/watch?v=Wak7iN4JZzU&ab_channel=WebDevSimplified
